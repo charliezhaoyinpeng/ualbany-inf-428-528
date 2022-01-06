@@ -40,7 +40,13 @@ Contact: czhao4@albany.edu
 * Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
 * Dash Plotly Official, https://plotly.com/
 
+## Examinations and Grading:
 
+* Midterm Exam: 30%
+* Quizzes: 10%
+* Homework Assignment: 30%
+* Final Project: 30%
+If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
 
 
 
