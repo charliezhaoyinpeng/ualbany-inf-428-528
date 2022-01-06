@@ -34,6 +34,11 @@ Contact: czhao4@albany.edu
 | 13   	|     Invited Talk                                	|       	|
 | 14   	|     Special topic and projects                  	|       	|
 
+## Reading Materials:
+
+* Python Data Analysis, Ivan Idris, 2014 Packt Publishig, $49.99, Available at usual University at Albany book sellers, as well as via online sellers. ISBN-13: 978- 0596802356.
+* Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
+* Dash Plotly Official, https://plotly.com/
 
 
 
