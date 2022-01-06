@@ -78,6 +78,6 @@ The following is a list of the types of behaviors that are defined as examples o
 * Theft, Damage, or Misuse of Library or Computer Resources
 
 Any incident of academic dishonesty in this course, no matter how "minor" will result in
-* No credit for the affected assignment. 
-* A written report will be sent to the appropriate University authorities (e.g.the Dean of Undergraduate Studies) 
+* No credit for the affected assignment. 
+* A written report will be sent to the appropriate University authorities (e.g.the Dean of Undergraduate Studies) 
 * One of (1) A final mark reduction by atleastone-half letter grade (e.g. B, B-, C-, D+), (2) A Failing mark (E) in the course, and referral of the matter to the University Judicial System for disposition.
