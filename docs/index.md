@@ -2,7 +2,7 @@
 
 ```
 Semester: Spring 2022 
-Time/Location: Online
+Time/Location: Fully Online
 Instructor: Chen Zhao
 Contact: czhao4@albany.edu
 ```
