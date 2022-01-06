@@ -15,6 +15,7 @@ Contact: czhao4@albany.edu
 * Demonstrate an understanding of and be able to use predictive models.
 
 ## Course Outline:
+
 | Week 	| Topic                                           	| Notes 	|
 |------	|-------------------------------------------------	|-------	|
 | 1    	| Introduction and Overview                       	|       	|
