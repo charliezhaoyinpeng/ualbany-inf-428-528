@@ -17,24 +17,6 @@
 
 ## Course Outline:
 
-| Week |                      Topic                      | Notes |
-|:----:|:-----------------------------------------------:|-------|
-|   1  | Introduction and Overview                       |       |
-|   2  | Intro/Review of Python I                        |       |
-|   3  | Intro/Review of Python II                       |       |
-|   4  | Statistics and Linear Algebra I                 |       |
-|   5  | Statistics and Linear Algebra II                |       |
-|   6  | Data Wrangling with Pandas                      |       |
-|   7  | Machine Learning and Predictive Models I        |       |
-|   8  | Machine Learning and Predictive Models II       |       |
-|   9  | Spring Break                                    |       |
-|  10  | Machine Learning with Python                    |       |
-|  11  | Visualization with Matplotlib                   |       |
-|  12  | Introduction to Dash Plotly                     |       |
-|  13  | Invited Talk                                    |       |
-|  14  | Special topic and projects                      |       |
-
-
 | Week 	| Topic                                           	| Notes 	|
 |------	|-------------------------------------------------	|-------	|
 | 1    	| Introduction and Overview                       	|       	|
