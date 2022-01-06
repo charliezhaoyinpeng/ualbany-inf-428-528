@@ -11,7 +11,14 @@
 
 * Understand and be able to demonstrate principles of data analysis.
 * Be able to do simple data and visualization analyses to understand a new and complex data set.
-  ** Examine data sets with simple data analysis and visualization methods.   
+* Demonstrate an understanding of and be able to use statistical and machine learning methods for data analysis.
+* Demonstrate an understanding of and be able to use visualization analyses.
+* Demonstrate an understanding of and be able to use predictive models.
+
+## Course Outline:
+
+
+
 
 ```markdown
 Syntax highlighted code block
