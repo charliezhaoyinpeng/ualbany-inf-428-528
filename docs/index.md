@@ -1,10 +1,10 @@
 # INF 428/528: Analysis, Visualization, and Prediction in Analytics
 
 ```
-* Semester: Spring 2022 
-* Time/Location: Online
-* Instructor: Chen Zhao
-* Contact: czhao4@albany.edu
+Semester: Spring 2022 
+Time/Location: Online
+Instructor: Chen Zhao
+Contact: czhao4@albany.edu
 ```
 
 ## Student Learning Objectives:
