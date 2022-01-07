@@ -51,6 +51,7 @@ If a student feels they will miss a course obligation for any reason, they must 
 * All assignments must have your name, student ID, course name/number, and section number
 * Submit HW on the blackboard
 * File Name: HW#_Name.pdf (writeup) Or HW#_Name.zip (code)
+
 ### Late Homework
 * -10 penalty for the first 24-hour
 * -20 penalty for >= 24 hour
