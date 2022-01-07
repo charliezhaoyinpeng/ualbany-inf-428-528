@@ -48,6 +48,7 @@ If a student feels they will miss a course obligation for any reason, they must 
 
 ## Homework:
 ### Homework Assignments
+* Homework assignments will be given every two weeks
 * All assignments must have your name, student ID, course name/number, and section number
 * Submit HW on the blackboard
 * File Name: HW#_Name.pdf (writeup) Or HW#_Name.zip (code)
