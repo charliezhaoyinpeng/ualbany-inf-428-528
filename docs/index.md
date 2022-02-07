@@ -20,18 +20,18 @@ Contact: czhao4@albany.edu
 |------	|-------------------------------------------------	|-------	|
 | 1    	| Introduction and Overview                       	|       	|
 | 2    	|     Intro/Review of Python I                    	|       	|
-| 3    	|     Intro/Review of Python II                   	|       	|
+| 3    	|     Intro/Review of Python II                   	| HW1    	|
 | 4    	|     Statistics and Linear Algebra I             	|       	|
-| 5    	|     Statistics and Linear Algebra II            	|       	|
+| 5    	|     Statistics and Linear Algebra II            	| HW2    	|
 | 6    	|     Data Wrangling with Pandas                  	|       	|
 | 7    	|     Machine Learning and Predictive Models I    	|       	|
-| 8    	| Machine Learning and Predictive Models II       	|       	|
+| 8    	| Machine Learning and Predictive Models II       	| HW3    	|
 | 9    	|     Spring Break                                	|       	|
-| 10   	|     Machine Learning with Python                	|       	|
+| 10   	|     Machine Learning with Python                	| HW4    	|
 | 11   	|     Visualization with Matplotlib               	|       	|
-| 12   	|     Introduction to Dash Plotly                 	|       	|
+| 12   	|     Introduction to Dash Plotly                 	| HW5    	|
 | 13   	|     Invited Talk                                	|       	|
-| 14   	|     Special topic and projects                  	|       	|
+| 14   	|     Special topic and projects                  	|Final Project  	|
 
 ## Reading Materials:
 * Python Data Analysis, Ivan Idris, 2014 Packt Publishig, ISBN-13: 978-1783553358.
