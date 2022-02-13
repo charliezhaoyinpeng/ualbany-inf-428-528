@@ -21,8 +21,8 @@ Contact: czhao4@albany.edu
 | 1    	| Introduction and Overview                       	|       	|
 | 2    	|     Intro/Review of Python I                    	|       	|
 | 3    	|     Intro/Review of Python II                   	| HW1    	|
-| 4    	|     Statistics and Linear Algebra I             	|       	|
-| 5    	|     Statistics and Linear Algebra II            	| HW2    	|
+| 4    	|     Statistics and MLE I                         	|       	|
+| 5    	|     Statistics and MLE II                       	| HW2    	|
 | 6    	|     Machine Learning and Predictive Models I     	|       	|
 | 7    	|     Machine Learning and Predictive Models II    	| HW3    	|
 | 8    	|     Data Wrangling with Pandas       	            |       	|
