@@ -16,7 +16,7 @@ Contact: czhao4@albany.edu
 
 ## Course Outline:
 
-| Week 	| Topic                                           	| Notes 	|
+|Lecture| Topic                                           	| Notes 	|
 |------	|-------------------------------------------------	|-------	|
 | 1    	| Introduction and Overview                       	|       	|
 | 2    	|     Intro/Review of Python I                    	|       	|
@@ -24,14 +24,13 @@ Contact: czhao4@albany.edu
 | 4    	|     Statistics and MLE I                         	|       	|
 | 5    	|     Statistics and MLE II                       	| HW2    	|
 | 6    	|     Machine Learning and Predictive Models I     	|       	|
-| 7    	|     Machine Learning and Predictive Models II    	| HW3    	|
+| 7    	|     Machine Learning and Predictive Models II    	| Quiz 1 	|
 | 8    	|     Data Wrangling with Pandas       	            |       	|
-| 9    	|     Spring Break                                	|       	|
-| 10   	|     Machine Learning with Python                	| HW4    	|
-| 11   	|     Visualization with Matplotlib               	|       	|
-| 12   	|     Introduction to Dash Plotly                 	| HW5    	|
-| 13   	|     Invited Talk                                	|       	|
-| 14   	|     Special topic and projects                  	|Final Project  	|
+| 9   	|     Machine Learning with Python                	| HW3    	|
+| 10   	|     Visualization with Matplotlib               	|       	|
+| 11   	|     Introduction to Dash Plotly                 	| HW4    	|
+| 12   	|     Invited Talk                                	|       	|
+| 13   	|     Special topic and projects                  	|Final Project  	|
 
 ## Reading Materials:
 * Python Data Analysis, Ivan Idris, 2014 Packt Publishig, ISBN-13: 978-1783553358.
@@ -43,6 +42,7 @@ Contact: czhao4@albany.edu
 * Quizzes: 10%
 * Homework Assignment: 30%
 * Final Project: 30%
+* Bouns: 10%
 
 If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
 
