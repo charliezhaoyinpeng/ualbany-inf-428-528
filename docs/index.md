@@ -28,7 +28,7 @@ Contact: czhao4@albany.edu
 | 8    	|     Data Wrangling with Pandas       	            |       	|
 | 9   	|     Machine Learning with Python                	| HW3    	|
 | 10   	|     Visualization with Matplotlib               	|       	|
-| 11   	|     Introduction to Dash Plotly                 	|       	|
+| 11   	|     Introduction to Dash Plotly                 	| HW4    	|
 | 12   	|     Invited Talk                                	|       	|
 | 13   	|     Special topic and projects                  	|Final Project  	|
 
