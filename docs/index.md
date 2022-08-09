@@ -1,11 +1,15 @@
 # INF 428/528: Analysis, Visualization, and Prediction in Analytics
 
 ```
-Semester: Spring 2022 
-Time/Location: Fully Online
+Semester: Fall 2022 
+Day/Time: Mondays Wednesdays 18:00 - 19:20	
+Location: Physics 224
 Instructor: Chen Zhao
 Contact: czhao4@albany.edu
 ```
+
+## Course Description:  
+Principles of data analysis, emphasizing modern statistical and machine-learning based approaches.  Also, the important role of simple analyses and visualization to gain an overall understanding of data sets, regardless of size. The role of analytics in creating predictive models of phenomena. The importance of understanding the nature of the data and other methodological considerations. Prerequisites: Some statistics and database experience.
 
 ## Student Learning Objectives:
 * Understand and be able to demonstrate principles of data analysis.
