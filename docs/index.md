@@ -6,6 +6,8 @@ Day/Time: Mondays Wednesdays 18:00 - 19:20
 Location: Physics 224
 Instructor: Chen Zhao
 Contact: czhao4@albany.edu
+Office Location and Hours: Fridays 8—10pm, Online
+Course Website: https://charliezhaoyinpeng.github.io/ualbany-inf-428-528/ 
 ```
 
 ## Course Description:  
@@ -36,7 +38,7 @@ Principles of data analysis, emphasizing modern statistical and machine-learning
 | 12   	|     Invited Talk                                	|       	|
 | 13   	|     Special topic and projects                  	|Final Project  	|
 
-## Reading Materials:
+## Reading Materials (recommended but not required):
 * Python Data Analysis, Ivan Idris, 2014 Packt Publishig, ISBN-13: 978-1783553358.
 * Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
 * Dash Plotly Official, https://plotly.com/
@@ -46,7 +48,7 @@ Principles of data analysis, emphasizing modern statistical and machine-learning
 * Quizzes: 10%
 * Homework Assignment: 30%
 * Final Project: 30%
-* Bouns: 10%
+* Bonus: 10%
 
 If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
 
