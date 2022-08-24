@@ -6,7 +6,7 @@ Day/Time: Mondays Wednesdays 18:00 - 19:20
 Location: Physics 224
 Instructor: Chen Zhao
 Contact: czhao4@albany.edu
-Office Location and Hours: Fridays 8—10pm, Online
+Office Location and Hours: By appointment
 Course Website: https://charliezhaoyinpeng.github.io/ualbany-inf-428-528/ 
 ```
 
