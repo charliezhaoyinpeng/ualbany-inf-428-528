@@ -22,24 +22,24 @@ Principles of data analysis, emphasizing modern statistical and machine-learning
 
 ## Course Outline:
 
-|Lecture| Topic                                           	| Notes 	|
-|------	|-------------------------------------------------	|-------	|
-| 1    	| Introduction and Overview                       	|       	|
-| 2    	|     Intro/Review of Python I (Variables, If/Else, Loop )                   	|       	|
-| 3    	|     Intro/Review of Python II (List, Dictionary)                  	|     	|
-| 4    	|     Intro/Review of Python III (Class)                         	|       	|
-| 5    	|     Machine Learning and Predictive Models I (Linear/ Logistic regression, K-mean)                         	|       	|
-| 6    	|     Machine Learning and Predictive Models II (Decision tree, SVM)                      	|     	|
-| 7    	|     Machine Learning and Predictive Models III (Neural Networks)     	|       	|
-| 8    	|     Data Wrangling with Pandas I (Missing values, Outliers, Feature selection)    	|   	|
-| 9    	|     Data Wrangling with Pandas II (Imbalance, Standardization)      	            |       	|
-| 10   	|     Machine Learning with Python I (Loss functions, Optimizers, Model Training)              	|     	|
-| 11   	|     Machine Learning with Python II (Implementation, Evaluation, Interpretation)              	|     	|
-| 12   	|     Visualization with Matplotlib I              	|       	|
-| 13   	|     Visualization with Matplotlib II              	|       	|
-| 14   	|     Introduction to Dash Plotly                 	|     	|
-| 15   	|     Invited Talk                                	|       	|
-| 16   	|     Special topic and projects (TBD)                  	|   	|
+|Lecture| Topic                                           	                                | Notes 	  |
+|------	|-----------------------------------------------------------------------------------|-----------|
+| 1    	| Introduction and Overview                       	                                |       	  |
+| 2    	|     Intro/Review of Python I (Variables, If/Else, Loop )                   	      |       	  |
+| 3    	|     Intro/Review of Python II (List, Dictionary)                  	              |       	  |
+| 4    	|     Intro/Review of Python III (Class)                         	                  |Quiz1      |
+| 5    	|     Machine Learning and Predictive Models I (Linear/ Logistic regression, K-mean)|HW1     	  |
+| 6    	|     Machine Learning and Predictive Models II (Decision tree, SVM)                |       	  |
+| 7    	|     Machine Learning and Predictive Models III (Neural Networks)     	            |       	  |
+| 8    	|     Data Wrangling with Pandas I (Missing values, Outliers, Feature selection)    |        	  |
+| 9    	|     Data Wrangling with Pandas II (Imbalance, Standardization)      	            |       	  |
+| 10   	|     Machine Learning with Python I (Loss functions, Optimizers, Model Training)   |        	  |
+| 11   	|     Machine Learning with Python II (Implementation, Evaluation, Interpretation) 	|        	  |
+| 12   	|     Visualization with Matplotlib I              	                                |       	  |
+| 13   	|     Visualization with Matplotlib II              	                              |       	  |
+| 14   	|     Introduction to Dash Plotly                 	                                |        	  |
+| 15   	|     Invited Talk                                	                                |       	  |
+| 16   	|     Special topic and projects (TBD)                  	                          |        	  |
 
 
 
