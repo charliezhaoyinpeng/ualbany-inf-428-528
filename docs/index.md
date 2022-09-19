@@ -30,8 +30,8 @@ Principles of data analysis, emphasizing modern statistical and machine-learning
 | 4    	|     Intro/Review of Python III (Class)                         	                  |Quiz1      |
 | 5    	|     Machine Learning and Predictive Models I (Linear/ Logistic regression, K-mean)|HW1     	  |
 | 6    	|     Machine Learning and Predictive Models II (Decision tree, SVM)                |       	  |
-| 7    	|     Machine Learning and Predictive Models III (Neural Networks)     	            |Quiz2   	  |
-| 8    	|     Data Wrangling with Pandas I (Missing values, Outliers, Feature selection)    |HW2        |
+| 7    	|     Machine Learning and Predictive Models III (Neural Networks)     	            |        	  |
+| 8    	|     Data Wrangling with Pandas I (Missing values, Outliers, Feature selection)    |Quiz2,HW2  |
 | 9    	|     Data Wrangling with Pandas II (Imbalance, Standardization)      	            |       	  |
 | 10   	|     Machine Learning with Python I (Loss functions, Optimizers, Model Training)   |        	  |
 | 11   	|     Machine Learning with Python II (Implementation, Evaluation, Interpretation) 	|        	  |
